@@ -1,0 +1,17 @@
+h1 {
+    font-size: 42px;
+}
+
+.author {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.content {
+    font-size: 24px;
+}
+
+.publisher {
+    font-size: 18px;
+    font-style: italic;
+}
